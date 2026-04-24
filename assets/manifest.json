@@ -1,5 +1,5 @@
 {
-  "version": "1777033303975",
+  "version": "v2026.04.24.1334",
   "assets": {
     "favicon.ico": "favicon.1ba2ae71.ico",
     "loading.js": "loading.6d5649bd.js",
@@ -646,12 +646,12 @@
     "warframe/assert/images/zymos.png": "warframe/assert/images/zymos.17bb420a.png",
     "warframe/data/arcane.json": "warframe/data/arcane.882022b5.json",
     "warframe/data/expr.json": "warframe/data/expr.929d3748.json",
-    "warframe/data/melee.json": "warframe/data/melee.34544903.json",
-    "warframe/data/mods-DefaultUpgrades.json": "warframe/data/mods-DefaultUpgrades.566d8d8f.json",
+    "warframe/data/melee.json": "warframe/data/melee.8204f7db.json",
+    "warframe/data/mods-DefaultUpgrades.json": "warframe/data/mods-DefaultUpgrades.2e9bde59.json",
     "warframe/data/mods-Sets.json": "warframe/data/mods-Sets.d7517139.json",
-    "warframe/data/mods.json": "warframe/data/mods.faa73ce0.json",
-    "warframe/data/primary.json": "warframe/data/primary.2a49a19b.json",
-    "warframe/data/secondary.json": "warframe/data/secondary.90b32ea0.json",
+    "warframe/data/mods.json": "warframe/data/mods.142511e8.json",
+    "warframe/data/primary.json": "warframe/data/primary.8a61ef9a.json",
+    "warframe/data/secondary.json": "warframe/data/secondary.23cbb148.json",
     "warframe/js/lzma_worker-min.js": "warframe/js/lzma_worker-min.cffdefcc.js",
     "warframe/lang/zh/warframe.json": "warframe/lang/zh/warframe.35ae7cbf.json",
     "warframe/style/index.css": "warframe/style/index.0daa5292.css"
